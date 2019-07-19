@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Know If It’s Time to Refinance
-date: 2019-07-19 19:25:44
+date: 2019-07-19 19:25:00
 tags:
   - Real Estate
 excerpt: Is it time to refinance your home? Stay tuned for my answers.
