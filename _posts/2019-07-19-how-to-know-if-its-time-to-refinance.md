@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Is it time to refinance your home? Stay tuned for my answers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance.mp4
+  https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance+(1).mp4
 pullquote: There’s no reason to pay more in interest than is necessary.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kiW4uqpz7uk
+youtube_code: P_eRnqW-U2w
 ---
 
 {% include youtube.html %}
