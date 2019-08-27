@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/how-to-know-if-its-time-to-refinance.html</loc>
+<lastmod>2019-07-19T14:25:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/have-fun-and-play-with-pups-at-our-yappy-hour-event.html</loc>
+<lastmod>2019-08-04T22:15:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-do-you-make-your-offer-stand-out.html</loc>
+<lastmod>2019-08-16T11:12:55-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/homesearch/</loc>

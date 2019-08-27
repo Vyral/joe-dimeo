@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Fairway Independent Mortgage Corp. - your professional Portland Mortgage Agents.</description>
     <language>en</language>
     <managingEditor>Joe Dimeo</managingEditor>
-    <lastBuildDate>2019-06-17 10:38:05 -0500</lastBuildDate>
+    <lastBuildDate>2019-08-27 10:46:43 -0500</lastBuildDate>
     <media:copyright>Joe Dimeo</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage agents, find a Mortgage agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, Mortgage market, estate agent, realestate, Mortgage listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,96 +25,92 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>How Do You Make Your Offer Stand Out?</title>
+        <link>http://localhost:4000/how-do-you-make-your-offer-stand-out.html</link>
         
         <author>Joe Dimeo</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-08-16 11:12:55 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/How+Do+You+Make+Your+Offer+Stand+Out_.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+For homebuyers, one of the common questions we hear is, “How do I make my offer stand out?”
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Your real estate agent is a good place to start. You hired them for a reason, and that reason should be to get you the best property for the best price. If you need a referral, please let me know because I know some great agents.
 
+“I always suggest starting with the seller’s motivation.”
 
+As for my advice, I always suggest starting with the seller’s motivation. A handwritten letter makes you look desperate and overly emotional in my opinion. If you understand the seller’s motivation, you can craft your offer to fit their needs. You don’t have to come in with a high price, but you can offer a quick close or waive a contingency or two. This will help everyone feel like they left the transaction a winner. 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+So if you do need any recommendations for real estate agents or you have any questions regarding real estate or mortgages in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/How+Do+You+Make+Your+Offer+Stand+Out_.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/How+Do+You+Make+Your+Offer+Stand+Out_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>What can you do to make your offer stand out? Here are my suggestions.</itunes:subtitle>
         <itunes:author>Joe Dimeo</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>What can you do to make your offer stand out? Here are my suggestions.</itunes:summary>
         <itunes:keywords>Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage agents, find a Mortgage agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, Mortgage market, estate agent, realestate, Mortgage listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
+        <title>Have Fun and Play With Pups at Our “Yappy” Hour Event</title>
+        <link>http://localhost:4000/have-fun-and-play-with-pups-at-our-yappy-hour-event.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Joe Dimeo</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-08-04 22:15:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+Play+With+Pups+at+Our+Yappy+Hour.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+You’re invited to our upcoming “Yappy” Hour event! That’s right, bring your loved ones and your pups along for a great time at our office “700 SW 5th Avenue Portland, OR  97204” on August 15 at 4:30 p.m. It’s going to be a fantastic chance to mix and mingle, so we hope you’ll drop by to enjoy a free cocktail, get your furry friend a complimentary puppy pedicure, and chat with other local dog lovers. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to seeing you on August 15. 
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+Play+With+Pups+at+Our+Yappy+Hour.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+Play+With+Pups+at+Our+Yappy+Hour.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Our team is hosting a “Yappy” Hour event, and you’re invited!</itunes:subtitle>
         <itunes:author>Joe Dimeo</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Our team is hosting a “Yappy” Hour event, and you’re invited!</itunes:summary>
+        <itunes:keywords>Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage agents, find a Mortgage agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, Mortgage market, estate agent, realestate, Mortgage listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Know If It’s Time to Refinance</title>
+        <link>http://localhost:4000/how-to-know-if-its-time-to-refinance.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joe Dimeo</author>
+        <pubDate>2019-07-19 14:25:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance+(1).mp4</guid>
+        <description>
+
+People often ask me whether it’s a good idea to refinance their home.
+
+In answer, I ask them three questions:
+
+
+  Has the market improved? If the market in your area has gone up significantly over the last couple of years, meaning that money is actually cheaper, then you can absolutely refinance your home, potentially pull equity from it, and lower your payments.
+
+
+“There’s no reason to pay more in interest than is necessary.”
+
+
+  Have you done substantial improvements to the home? If, for example, you added some decks or really nice landscaping to your property, the value of your home will increase, potentially leading to a higher appraisal and loan-to-value ratio. Many good things can happen when it shows good ownership of a home and improvements in the value of the asset the bank has lent on because that’s ultimately what the banks are after. Someone who shows that they can make a home better after living in it and makes their payments on time is a less risky person to loan to.
+  Has your credit improved? If you borrowed money when you had a credit score of 550 and you’re now at a 750, you represent less of a risk to the bank. There’s no reason to pay more in interest than is necessary.
+
+
+Do you want to stop wasting money on interest and find out what risk you represent to the bank? If so, then reach out to me. We can help you make sure that you’re not overpaying. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Is it time to refinance your home? Stay tuned for my answers.</itunes:subtitle>
+        <itunes:author>Joe Dimeo</itunes:author>
+        <itunes:summary>Is it time to refinance your home? Stay tuned for my answers.</itunes:summary>
         <itunes:keywords>Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage agents, find a Mortgage agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, Mortgage market, estate agent, realestate, Mortgage listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
