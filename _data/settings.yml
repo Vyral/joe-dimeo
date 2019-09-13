@@ -73,7 +73,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://podcasts.apple.com/us/podcast/portland-mortgage-podcast-with-joe-dimeo/id1479577919
 
 podcast:
   title: 'Portland Mortgage Podcast with Joe Dimeo'
