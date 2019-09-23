@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Ease the Stress of Buying a Fixer-Upper Home
-date: 2019-09-23 18:55:30
+date: 2019-09-23 18:55:00
 tags:
 excerpt: >-
   More and more homebuyers want to fulfill their HGTV dreams by buying a
@@ -25,10 +25,10 @@ Have you ever seen the Tom Hanks movie, “The Money Pit?” Keep this in mind i
 
 If this sounds like something you could handle, but you don’t want to live with the constant construction, I have great news. There’s a program out there called the 203(k) rehab loan. **It allows you to find that perfect fixer-upper, make the updates and improvements before you move in, and move into a fully remodeled home.&nbsp;**
 
+{% include pullquote.html %}
+
 There are a lot of steps to it, but it can totally get done. I used to be a construction contractor so I’ve got a list of some of the best contractors in Oregon if you need it.
 
 If you’re interested in remodeling your new home just the way you want to without living in a construction zone, visit us online at [joedimeoloans.com](https://joedimeoloans.com/){: target="_blank"} or [loansforpets.com](https://www.loansforpets.com/){: target="_blank"}.
 
-If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
-
-{% include pullquote.html %}
+If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
