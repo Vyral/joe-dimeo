@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nRFkGAnFbFQ
+youtube_code: Su5A8C0Rz7c
 ---
 
 {% include youtube.html %}
 
-Have you ever seen the Tom Hanks movie, “The Money Pit?” Keep this in mind if you’re thinking about buying a fixer-upper.&nbsp;
+Have you ever seen the Tom Hanks movie, “The Money Pit?” If so, keep it in mind if you’re thinking about buying a fixer-upper.
 
 **If you're buying one of these kinds of properties, you need to understand that you’re starting to undertake a full-time second job.** It depends on the extent, but you’re going to be living in a construction site. It’s a great way to build equity or make some money, but there’s no such thing as easy money.&nbsp;
 
