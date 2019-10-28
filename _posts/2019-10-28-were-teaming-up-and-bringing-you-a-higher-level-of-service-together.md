@@ -1,12 +1,13 @@
 ---
 layout: post
 title: We’re Teaming Up and Bringing You a Higher Level of Service Together
-date: 2019-10-28 15:53:06
+date: 2019-10-28 15:53:00
 tags:
 excerpt: >-
   From both Joe DiMeo and Shelby Campbell, we’re excited to announce that we’re
   teaming up for all future videos.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Were+Teaming+Up+and+Bringing+You+a+Higher+Level+of+Service+Together.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
