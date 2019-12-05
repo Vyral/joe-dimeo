@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Set Realistic Expectations When Buying a Home
-date: 2019-12-03 20:13:53
+date: 2019-12-03 20:13:00
 tags:
   - Real Estate
-  - Homeowner Tips
 excerpt: >-
   As a homebuyer, it’s important that you set realistic expectations in terms of
   your budget.
@@ -20,9 +19,9 @@ youtube_code: IrcCjmVmijs
 
 {% include youtube.html %}
 
-I saw an Instagram meme the other day that said, “My wife is a stay-at-home astronaut and I breed salamanders. Our budget is $3 million.” This, of course, was referring to the “House Hunters” series on HGTV.
+I saw an Instagram meme the other day that said, “My wife is a stay-at-home astronaut, and I breed salamanders. Our budget is $3 million.” This, of course, was referring to the “House Hunters” series on HGTV.
 
-Unfortunately, though, this is a situation many people actually have to face. Everyone wants the house on a hill that comes with a pool, is located in the perfect school district, and sits within walking distance of their favorite coffee shop. The problem is, money talks, and if you’re not in the price bracket that allows you to buy a home with these features, **you’ll have to make sacrifices to get the home that’s best-suited for you.&nbsp;**
+Unfortunately, though, this is a situation many people actually have to face. Everyone wants the house on a hill that comes with a pool, is located in the perfect school district, and sits within walking distance of their favorite coffee shop. The problem is that money talks, and if you’re not in the price bracket that allows you to buy a home with these features,&nbsp;**you’ll have to make sacrifices to get the home that’s best-suited for you.**
 
 This is why it’s important to set realistic expectations and know your budget when buying a home. A great rule of thumb is to pick your absolute “must-have” features, and for every $100,000 you’re willing to spend, add one of them.&nbsp;
 
