@@ -1,6 +1,6 @@
 audit_header: false
-title: Portland Mortgage Video Blog with Joe Dimeo
-description: Our mission at Fairway Independent Mortgage Corp. is to be your best resource for Portland Mortgage advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about Mortgage. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Fairway Independent Mortgage Corp., your professional Portland Mortgage Agents.
+title: CrossCountry Mortgage Video Blog with Joe Dimeo
+description: Our mission at CrossCountry Mortgage, LLC is to be your best resource for Portland Mortgage advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about Mortgage. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from CrossCountry Mortgage, LLC your professional Portland Mortgage Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -13,15 +13,15 @@ custom_links_new_tab:
 client:
   name: Joe Dimeo
   title:
-  license_number: 'NMLS#: 1836302'
+  license_number: Branch NMLS1841888
   about_markdown: |
     Whether you’re looking to buy, build or refinance your home, our experienced mortgage professionals are here to help. Here at Fairway Independent Mortgage Corporation, we offer a variety of loan options that can help you achieve homeownership with the speed and service you deserve. Plus, our mortgage professionals are dedicated to finding the right loan with great rates, terms and costs to meet your specific needs.
 
     Financing a home is one of the biggest commitments you will ever make - let us help guide you throughout the entire loan process from application to closing and beyond. We look forward to putting our mortgage service to work for you!
-  brand: Fairway Independent Mortgage Corp.
-  brokerage:
+  brand: CrossCountry Mortgage, LLC
+  brokerage: 
   market: Portland
-  address: 700 SW 5th Avenue. Portland, OR 97204
+  address: 14945 SW Sequoia Parkway, Suite 150 Portland, OR 97224
   phone: 720-775-7594
   phone_type: Direct
   phone2: 503-765-1166
@@ -64,8 +64,8 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/FairwayMortgage
-  linkedin_url: https://www.linkedin.com/company/fairway-independent-mortgage-corporation
+  facebook_url: 
+  linkedin_url: 
   youtube_url:
   twitter_url:
   instagram_url:
@@ -96,7 +96,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#004E38'
+  brand_color: '#20346A'
   theme_color: '#96C950'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
