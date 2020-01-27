@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Looking Forward to a Great Career With CrossCountry Mortgage
-date: 2020-01-27 17:48:07
+date: 2020-01-27 17:48:00
 tags:
 excerpt: >-
   2020 is going to be a great year! If you’re in the market for a new home,
   think of me over at CrossCountry Mortgage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Looking+Forward+to+a+Great+Career+With+CrossCountry+Mortgage.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
