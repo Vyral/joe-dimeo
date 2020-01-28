@@ -1,6 +1,12 @@
 audit_header: false
 title: CrossCountry Mortgage Video Blog with Joe Dimeo
-description: Our mission at CrossCountry Mortgage, LLC is to be your best resource for Portland Mortgage advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about Mortgage. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from CrossCountry Mortgage, LLC your professional Portland Mortgage Agents.
+description: >-
+  Our mission at CrossCountry Mortgage, LLC is to be your best resource for
+  Portland Mortgage advice. Whether you are a buyer, seller, or investor, our
+  team of professionals can answer any questions you might have about Mortgage.
+  If you are looking to buy or sell a home, you can get all the information and
+  the latest updates, tips, and tricks from CrossCountry Mortgage, LLC your
+  professional Portland Mortgage Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -8,47 +14,42 @@ custom_links:
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: Loans for Pets
-    url: https://www.loansforpets.com/
-
+    url: 'https://www.loansforpets.com/'
 client:
   name: Joe Dimeo
   title:
   license_number: Branch NMLS1841888
-  about_markdown: |
-    Whether you’re looking to buy, build or refinance your home, our experienced mortgage professionals are here to help. Here at Fairway Independent Mortgage Corporation, we offer a variety of loan options that can help you achieve homeownership with the speed and service you deserve. Plus, our mortgage professionals are dedicated to finding the right loan with great rates, terms and costs to meet your specific needs.
+  about_markdown: >-
+    Whether you’re looking to buy, build or refinance your home, our experienced
+    mortgage professionals are here to help. Here at Fairway Independent
+    Mortgage Corporation, we offer a variety of loan options that can help you
+    achieve homeownership with the speed and service you deserve. Plus, our
+    mortgage professionals are dedicated to finding the right loan with great
+    rates, terms and costs to meet your specific needs.
 
-    Financing a home is one of the biggest commitments you will ever make - let us help guide you throughout the entire loan process from application to closing and beyond. We look forward to putting our mortgage service to work for you!
-  brand: CrossCountry Mortgage, LLC
-  brokerage: 
+
+    Financing a home is one of the biggest commitments you will ever make - let
+    us help guide you throughout the entire loan process from application to
+    closing and beyond. We look forward to putting our mortgage service to work
+    for you\!
+  brand: 'CrossCountry Mortgage, LLC'
+  brokerage:
   market: Portland
-  address: 14945 SW Sequoia Parkway, Suite 150 Portland, OR 97224
+  address: '14945 SW Sequoia Parkway, Suite 150 Portland, OR 97224'
   phone: 720-775-7594
   phone_type: Direct
   phone2: 503-765-1166
   phone2_type: Office
   email: joe.dimeo@myccmortgage.com
-  url: http://joedimeoloans.com
-
+  url: 'http://joedimeoloans.com'
 CTAs:
   first_CTA_text: Apply Now
-  first_CTA_URL: https://5774399968.mortgage-application.net/WebApp/Start.aspx
-  # second_CTA_text: Home Search
-  # second_CTA_URL: /homesearch/
-
+  first_CTA_URL: 'https://crosscountrymortgage.com/Portland-OR-5403/Joe-Dimeo/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Mortgage Loan Application"
-    # CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Apply Now"
-    CTA_url: https://5774399968.mortgage-application.net/WebApp/Start.aspx
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Looking for a Portland Home?"
-#     CTA_text2: "Search the entire MLS for your Portland home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
-
+    CTA_title: Mortgage Loan Application
+    CTA_link_text: Apply Now
+    CTA_url: 'https://5774399968.mortgage-application.net/WebApp/Start.aspx'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -61,11 +62,10 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: 
-  linkedin_url: 
+  facebook_url:
+  linkedin_url:
   youtube_url:
   twitter_url:
   instagram_url:
@@ -73,47 +73,54 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/portland-mortgage-podcast-with-joe-dimeo/id1479577919
-
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/portland-mortgage-podcast-with-joe-dimeo/id1479577919
 podcast:
-  title: 'Portland Mortgage Podcast with Joe Dimeo'
-  categories: Education
+  title: Portland Mortgage Podcast with Joe Dimeo
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Mortgage Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Fairway Independent Mortgage Corp. - your professional Portland Mortgage Agents.'
-  keywords: 'Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage agents, find a Mortgage agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, Mortgage market, estate agent, realestate, Mortgage listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Joe Dimeo'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Portland
+    Area Mortgage Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Fairway Independent Mortgage Corp. -
+    your professional Portland Mortgage Agents.
+  keywords: >-
+    Mortgage for sale, Mortgage agents, top Mortgage agents, local Mortgage
+    agents, find a Mortgage agent, houses for sale in Portland, home selling
+    tips, home for sale, home buying, home buying process, property finder,
+    property search, property, Mortgage market, estate agent, realestate,
+    Mortgage listings, buying a house, homes for sale, mls, home buyer
+  author: Joe Dimeo
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Portland Mortgage Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
-  brand_color: '#20346A'
-  theme_color: '#11966E'
+  brand_color: '#20346a'
+  theme_color: '#11966e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
