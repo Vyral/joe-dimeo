@@ -7,10 +7,16 @@ description: >-
   If you are looking to buy or sell a home, you can get all the information and
   the latest updates, tips, and tricks from CrossCountry Mortgage, LLC your
   professional Portland Mortgage Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Loan Types
+    url: /loan-types/
+  - title: Events
+    url: /events/
+  - title: FAQ
+    url: /faq/
+  - title: Videos
+    url: /videos/
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: Loans for Pets
