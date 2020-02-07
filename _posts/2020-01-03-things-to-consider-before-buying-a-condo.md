@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---5---youtube.jpg
 youtube_code: 7i6xfrIoOgo
 ---
 
