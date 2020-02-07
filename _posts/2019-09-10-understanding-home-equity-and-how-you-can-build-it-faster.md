@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Home Equity and How You Can Build It Faster
-date: 2019-09-10 19:45:12
+date: 2019-09-10 19:45:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
   paying toward the principal and in the meanwhile building equity.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---2---youtube.jpg
 youtube_code: mPWROssYbMU
 ---
 
