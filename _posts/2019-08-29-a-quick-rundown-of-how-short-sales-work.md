@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Rundown of How Short Sales Work
-date: 2019-08-29 16:52:10
+date: 2019-08-29 16:52:00
 tags:
 excerpt: >-
   Short sales are unique real estate transactions, so a lot of people are unsure
@@ -12,7 +12,7 @@ pullquote: 'You can get a great deal, but you’ll need the right agent to make 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/new-joe-dimoe---august-2019---3---youtube.jpg
 youtube_code: CZ5zoJaSPbo
 ---
 
