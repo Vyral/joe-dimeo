@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: I know some of the best contractors in Oregon from my time in construction.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---3---youtube.jpg
 youtube_code: Su5A8C0Rz7c
 ---
 
