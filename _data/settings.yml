@@ -85,7 +85,7 @@ podcast:
   title: Portland Mortgage Podcast with Joe Dimeo
   categories:
     - Education
-  image: /img/podcast.jpg
+  image:
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the Portland
     Area Mortgage Market
