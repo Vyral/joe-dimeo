@@ -4,6 +4,7 @@ title: How to Know If It’s Time to Refinance
 date: 2019-07-19 19:25:00
 tags:
   - Real Estate
+  - Videos
 excerpt: Is it time to refinance your home? Stay tuned for my answers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+How+to+Know+If+Its+Time+to+Refinance+(1).mp4
@@ -13,6 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: P_eRnqW-U2w
+homepage: false
 ---
 
 {% include youtube.html %}

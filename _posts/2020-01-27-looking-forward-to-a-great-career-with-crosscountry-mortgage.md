@@ -3,6 +3,7 @@ layout: post
 title: Looking Forward to a Great Career With CrossCountry Mortgage
 date: 2020-01-27 17:48:00
 tags:
+  - Videos
 excerpt: >-
   2020 is going to be a great year! If you’re in the market for a new home,
   think of me over at CrossCountry Mortgage.
@@ -14,6 +15,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: skqKv8zpMVo
+homepage: true
 ---
 
 {% include youtube.html %}

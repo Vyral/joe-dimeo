@@ -4,6 +4,7 @@ title: Set Realistic Expectations When Buying a Home
 date: 2019-12-03 20:13:00
 tags:
   - Real Estate
+  - Videos
 excerpt: >-
   As a homebuyer, it’s important that you set realistic expectations in terms of
   your budget.
@@ -15,6 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-joe-dimoe---oct-2019---1---youtube.jpg
 youtube_code: IrcCjmVmijs
+homepage: false
 ---
 
 {% include youtube.html %}

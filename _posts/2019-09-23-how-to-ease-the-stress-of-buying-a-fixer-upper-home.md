@@ -3,6 +3,7 @@ layout: post
 title: How to Ease the Stress of Buying a Fixer-Upper Home
 date: 2019-09-23 18:55:00
 tags:
+  - Videos
 excerpt: >-
   More and more homebuyers want to fulfill their HGTV dreams by buying a
   fixer-upper home. Here are some things you should know if you’re considering
@@ -15,6 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---3---youtube.jpg
 youtube_code: Su5A8C0Rz7c
+homepage: false
 ---
 
 {% include youtube.html %}

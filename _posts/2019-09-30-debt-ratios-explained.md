@@ -3,6 +3,7 @@ layout: post
 title: Debt Ratios Explained
 date: 2019-09-30 16:37:00
 tags:
+  - Videos
 excerpt: >-
   What are your debt ratios and how will they impact your real estate goals?
   Let’s discuss.
@@ -13,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---4---youtube.jpg
 youtube_code: eQVPQVJT61I
+homepage: false
 ---
 
 {% include youtube.html %}

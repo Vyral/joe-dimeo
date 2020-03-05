@@ -4,6 +4,7 @@ title: Have Fun and Play With Pups at Our “Yappy” Hour Event
 date: 2019-08-05 03:15:00
 tags:
   - Real Estate
+  - Videos
 excerpt: 'Our team is hosting a “Yappy” Hour event, and you’re invited!'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/Fairway+Independent+Mortgage+Corporation+-+Joe+Dimeo+_+Play+With+Pups+at+Our+Yappy+Hour.mp4
@@ -13,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/unnamed-2.jpg
 youtube_code: ouTfhWh1Xsc
+homepage: false
 ---
 
 {% include youtube.html %}

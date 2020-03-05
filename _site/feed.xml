@@ -5,8 +5,8 @@
     <description>Our mission at CrossCountry Mortgage, LLC is to be your best resource for Portland Mortgage advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about Mortgage. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from CrossCountry Mortgage, LLC your professional Portland Mortgage Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Feb 2020 12:02:03 -0600</pubDate>
-    <lastBuildDate>Fri, 28 Feb 2020 12:02:03 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2020 11:10:22 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2020 11:10:22 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -20,6 +20,8 @@
         <pubDate>Mon, 27 Jan 2020 11:48:00 -0600</pubDate>
         <link>http://localhost:4000/looking-forward-to-a-great-career-with-crosscountry-mortgage.html</link>
         <guid isPermaLink="true">http://localhost:4000/looking-forward-to-a-great-career-with-crosscountry-mortgage.html</guid>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -35,6 +37,8 @@
         <guid isPermaLink="true">http://localhost:4000/things-to-consider-before-buying-a-condo.html</guid>
         
         <category>Real Estate</category>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -65,6 +69,8 @@
         
         <category>Real Estate</category>
         
+        <category>Videos</category>
+        
         
       </item>
     
@@ -77,6 +83,8 @@
         <pubDate>Mon, 30 Sep 2019 11:37:00 -0500</pubDate>
         <link>http://localhost:4000/debt-ratios-explained.html</link>
         <guid isPermaLink="true">http://localhost:4000/debt-ratios-explained.html</guid>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -102,6 +110,8 @@
         <pubDate>Mon, 23 Sep 2019 13:55:00 -0500</pubDate>
         <link>http://localhost:4000/how-to-ease-the-stress-of-buying-a-fixer-upper-home.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-to-ease-the-stress-of-buying-a-fixer-upper-home.html</guid>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -129,6 +139,8 @@
         
         <category>Real Estate</category>
         
+        <category>Videos</category>
+        
         
       </item>
     
@@ -149,6 +161,8 @@
         <pubDate>Thu, 29 Aug 2019 11:52:00 -0500</pubDate>
         <link>http://localhost:4000/a-quick-rundown-of-how-short-sales-work.html</link>
         <guid isPermaLink="true">http://localhost:4000/a-quick-rundown-of-how-short-sales-work.html</guid>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -171,6 +185,8 @@
         <link>http://localhost:4000/how-do-you-make-your-offer-stand-out.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-do-you-make-your-offer-stand-out.html</guid>
         
+        <category>Videos</category>
+        
         
       </item>
     
@@ -185,6 +201,8 @@
         <guid isPermaLink="true">http://localhost:4000/have-fun-and-play-with-pups-at-our-yappy-hour-event.html</guid>
         
         <category>Real Estate</category>
+        
+        <category>Videos</category>
         
         
       </item>
@@ -215,6 +233,8 @@
         <guid isPermaLink="true">http://localhost:4000/how-to-know-if-its-time-to-refinance.html</guid>
         
         <category>Real Estate</category>
+        
+        <category>Videos</category>
         
         
       </item>

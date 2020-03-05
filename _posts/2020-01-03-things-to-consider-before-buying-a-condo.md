@@ -4,6 +4,7 @@ title: Things to Consider Before Buying a Condo
 date: 2020-01-03 17:25:00
 tags:
   - Real Estate
+  - Videos
 excerpt: >-
   Before you buy a condo, it’s important to consider whether the lifestyle that
   comes with such a purchase is right for you. Let’s discuss a few things to
@@ -15,6 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---5---youtube.jpg
 youtube_code: 7i6xfrIoOgo
+homepage: false
 ---
 
 {% include youtube.html %}

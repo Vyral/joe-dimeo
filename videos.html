@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: default
+title: videos
+permalink: /videos/
 ---
 <!-- blog feed -->
-      {% for post in paginator.posts %}
-      {% if post.homepage == true %}
+      {% for post in site.tags.Videos %}
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
 					<h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
@@ -39,5 +40,4 @@ layout: home
       </li>
 		</ul>
 </div>
-{% endif %}
       {% endfor %}

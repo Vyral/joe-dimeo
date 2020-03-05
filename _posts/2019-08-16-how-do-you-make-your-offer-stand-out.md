@@ -3,6 +3,7 @@ layout: post
 title: How Do You Make Your Offer Stand Out?
 date: 2019-08-16 16:12:55
 tags:
+  - Videos
 excerpt: What can you do to make your offer stand out? Here are my suggestions.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joe+Dimeo/How+Do+You+Make+Your+Offer+Stand+Out_.mp4
@@ -12,6 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: CuZxLZkRzGs
+homepage: false
 ---
 
 {% include youtube.html %}

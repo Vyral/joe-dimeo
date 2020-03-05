@@ -3,6 +3,7 @@ layout: post
 title: A Quick Rundown of How Short Sales Work
 date: 2019-08-29 16:52:00
 tags:
+  - Videos
 excerpt: >-
   Short sales are unique real estate transactions, so a lot of people are unsure
   of what they are. I’m here to explain that today.
@@ -14,6 +15,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/new-joe-dimoe---august-2019---3---youtube.jpg
 youtube_code: CZ5zoJaSPbo
+homepage: false
 ---
 
 {% include youtube.html %}

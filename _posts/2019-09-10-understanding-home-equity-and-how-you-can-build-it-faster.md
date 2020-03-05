@@ -4,6 +4,7 @@ title: Understanding Home Equity and How You Can Build It Faster
 date: 2019-09-10 19:45:00
 tags:
   - Real Estate
+  - Videos
 excerpt: >-
   Today we’ll discuss the basics of home equity and what you need to know about
   building it quickly.
@@ -17,6 +18,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-joe-dimoe---sept-2019---2---youtube.jpg
 youtube_code: mPWROssYbMU
+homepage: false
 ---
 
 {% include youtube.html %}&nbsp;
