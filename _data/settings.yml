@@ -10,11 +10,11 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Loan Types
-    url: /loan-types/
+    url: https://crosscountrymortgage.com/loan-types/
   - title: Events
     url: /events/
   - title: FAQ
-    url: /faq/
+    url: https://crosscountrymortgage.com/resource-center/faq/
   - title: Videos
     url: /videos/
 show_custom_links_new_tab: true
