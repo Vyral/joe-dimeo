@@ -10,11 +10,11 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Loan Types
-    url: https://crosscountrymortgage.com/loan-types/
+    url: 'https://crosscountrymortgage.com/loan-types/'
   - title: Events
     url: /events/
   - title: FAQ
-    url: https://crosscountrymortgage.com/resource-center/faq/
+    url: 'https://crosscountrymortgage.com/resource-center/faq/'
   - title: Videos
     url: /videos/
 show_custom_links_new_tab: true
@@ -23,7 +23,7 @@ custom_links_new_tab:
     url: 'https://www.loansforpets.com/'
 client:
   name: Joe Dimeo
-  title:
+  title: NMLS- 1836302
   license_number: Branch NMLS1841888
   about_markdown: >-
     Whether you’re looking to buy, build or refinance your home, our experienced
@@ -38,7 +38,7 @@ client:
     us help guide you throughout the entire loan process from application to
     closing and beyond. We look forward to putting our mortgage service to work
     for you\!
-  brand: 'CrossCountry Mortgage, LLC'
+  brand: Finance of America Mortgage
   brokerage:
   market: Portland
   address: '14945 SW Sequoia Parkway, Suite 150 Portland, OR 97224'
